@@ -7,8 +7,8 @@ print(shortName)
 # slicing with skip value
 
 country = "Bangladesh"
-countryShort = country[0:10:2] #start from 0 index , ends 
+countryShort = country[0:10:2] #0 index theke 10 er ager index porjonto dui ghor skip kore ekta kore letter nibe.
 print(countryShort)
 
-print(len(country)) 
+
 
