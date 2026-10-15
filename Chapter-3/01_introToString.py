@@ -10,5 +10,5 @@ country = "Bangladesh"
 countryShort = country[0:10:2] #start from 0 index , ends 
 print(countryShort)
 
-print(len(country))
+print(len(country)) 
 
