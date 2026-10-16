@@ -30,5 +30,5 @@ print(marks)
 
 # pop method
 marks.pop(6)
-print(marks)
+print(marks) 
 
