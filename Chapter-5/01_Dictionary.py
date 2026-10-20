@@ -15,3 +15,6 @@ print(marks["Mim"])
 print(marks,type(marks))
 
 
+# Empty dictionary
+dict = {}
+print(type(dict))
